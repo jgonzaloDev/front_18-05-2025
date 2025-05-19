@@ -1,1 +1,0 @@
-export const alumnos = 'https://appservicedojo14-04-2025-dch6g5dwgba0bdcz.eastus2-01.azurewebsites.net/alumnos'
